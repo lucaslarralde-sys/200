@@ -1,0 +1,1 @@
+Contenidos extendidos por área (HTML).

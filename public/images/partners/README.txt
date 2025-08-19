@@ -1,0 +1,1 @@
+Logos de partners (mantener nombres y enlaces).

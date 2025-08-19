@@ -1,0 +1,1 @@
+Íconos SVG para las áreas (ej: gota-white.svg, aire-gray.svg).

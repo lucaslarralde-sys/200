@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path fill="currentColor" d="M8 50V26l14 8V26l14 8V26l16 10v14H8z"/>
+  <rect x="44" y="16" width="8" height="10" fill="currentColor"/>
+  <rect x="14" y="44" width="10" height="4" fill="#fff"/>
+  <rect x="28" y="44" width="10" height="4" fill="#fff"/>
+  <rect x="42" y="44" width="10" height="4" fill="#fff"/>
+</svg>

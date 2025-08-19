@@ -1,0 +1,1 @@
+Íconos PNG/SVG generales si aplica (no confundir con public/icons/iconos/).
